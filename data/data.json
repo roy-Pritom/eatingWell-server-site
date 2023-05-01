@@ -1,0 +1,47 @@
+ [
+      {
+        "id":"1",
+        "name": "Sanjeev Kapoor",
+        "specialty": "North Indian cuisine",
+        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
+        "years_of_experience":"8",
+        "likes":"2000"
+      },
+      {
+        "name": "Vikas Khanna",
+        "specialty": "Modern Indian cuisine",
+        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
+        "years_of_experience":"8",
+        "likes":"2000"
+      },
+      {
+        "name": "Manish Mehrotra",
+        "specialty": "Contemporary Indian cuisine",
+        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
+        "years_of_experience":"8",
+        "likes":"2000"
+      },
+      {
+        "name": "Ranveer Brar",
+        "specialty": "Punjabi cuisine",
+        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
+        "years_of_experience":"8",
+        "likes":"2000"
+      },
+      {
+        "name": "Saransh Goila",
+        "specialty": "Butter chicken",
+        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
+        "years_of_experience":"8",
+        "likes":"2000"
+      },
+      {
+        "name": "Atul Kochhar",
+        "specialty": "Indian-inspired British cuisine",
+        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
+        "years_of_experience":"8",
+        "likes":"2000"
+      }
+    ]
+  
+  

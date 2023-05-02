@@ -8,8 +8,17 @@ const chefData=require('./data/data.json')
 app.get('/', (req, res) => {
     res.send('Assignment-10-server-site')
 })
+// all data
 app.get('/data',(req,res)=>{
     res.send(chefData)
+})
+
+// particular data
+app.get('/data/:id',(req,res)=>{
+    const id=req.params.id;
+    // console.log(id);
+    const selectedData=chefData.find(pd=>pd.id===id);
+    res.send(selectedData)
 })
 
 app.listen(port, () => {

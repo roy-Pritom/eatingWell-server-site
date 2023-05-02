@@ -3,44 +3,212 @@
         "id":"1",
         "name": "Sanjeev Kapoor",
         "specialty": "North Indian cuisine",
-        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
+        "img_url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
         "years_of_experience":"8",
-        "likes":"2000"
+        "likes":"2000",
+        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "recipes":[
+          {
+            "_id":"1a",
+            "food_name":"Butter Chicken",
+            "food_img":"https://i.ndtvimg.com/i/2015-01/butter-chicken_625x350_71421325695.jpg",
+            "method":"This gorgeous plate is the reason every Punjabi takes pride in his food. Chunks of chicken marinated overnight in yogurt and a beautiful mix of spices, served with a dollop of melting cream or butter on top.Marinated overnight, the chicken is roasted and cooked in tomato puree, cream, butter and a host of masalas. A perfect dinner party recipe, this North-Indian style chicken recipe is made throughout the country with equal zest and can be served with cooked rice or naan",
+            "Ingredients":"For the marinade:Raw Chicken,2 tsp Red Chilli Powder,2 tsp Ginger-Garlic Paste,2 tsp Salt,2 tsp Lemon Juice,1/2 cup Curd,1/2 tsp Garam Masala,1 tsp Kasuri Methi,2 tsp Mustard Oil,For gravy:2 tsp Oil,2 to taste Butter Cubes,3 gram Cloves,1 Cinnamon Stick, sliced,1 tsp Mace,7 Cardamom,4 Tomatoes, chopped,1 tsp Garlic,1 tsp Ginger,1 tsp Ginger-Garlic Paste,1 1/2 tsp Red Chilli Powder,1 tsp Kasuri Methi,2 tsp Honey,1 Green Chilli,2 tsp Cardamom Powder,1 tbsp Cream",
+            "rating":"4.5"
+          },
+          {
+            "_id":"1b",
+            "food_name":"Bhapaa Aloo",
+            "food_img":"https://i.ndtvimg.com/i/2016-06/bhapaa-aloo_625x350_71465281820.jpg",
+            "method":"A stunner of a recipe, this one gets the Bengali flavours just right. Bhapaa is the Bengali word for steamed and this bengali recipe is exactly what it means. The humble potato tossed in local flavours of panch phoron (five spice powder), coconut paste and mustard oil, steamed to perfection. You can simply say this is a vegetarian version of Bhapaa Maach, just the fish has been replaced with baby potatoes. Simple yet satisfying!",
+            "Ingredients":"200 gm small potatoes,2 tsp mustard oil,1/2 tsp Bengali five spice mixture (panchphoron) (whole jeera, saunf seeds, fenugreek seeds, black mustrad seeds and kalaunji),2 dry red chillies,1/2 tsp mustard paste,1 tsp hung curd,3/4 tsp desiccated coconut paste,Pinch of green chilli paste,Pinch of turmeric powder,Salt - to taste,Dash of lime juice,2 banana leaves",
+            "rating":"4.4"
+          },
+          {
+            "_id":"1c",
+            "food_name":" Rogan Josh",
+            "food_img":"https://i.ndtvimg.com/i/2016-06/bhapaa-aloo_625x350_71465281820.jpg",
+            "method":"It is one of the signature dishes of Kashmir. Robust with varied spices, the dish is cooked with the aroma of fennel seeds, garam masala, bay leaves, turmeric and is indeed a celebration of all senses. A delicious dinner party option, Rogan Josh can be best paired with butter naan or paratha.",
+            "Ingredients":"1 Kg meat,1 cup mustard/refined oil,3 tsp red chili powder,3 tsp fennel powder,2 tsp ginger powder,2 tsp cumin powder,3 tsp brown cardamom powder,1 tsp asafoetida,4 Green cardamom,2 Cinnamon sticks,2 Bay leaves,2 Cloves,1/3 tsp saffron (optional),1 cup curd,A pinch of salt",
+            "rating":"4.6"
+          }
+        ]
       },
       {
+        "id":"2",
         "name": "Vikas Khanna",
         "specialty": "Modern Indian cuisine",
-        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
+        "img_url":"https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "years_of_experience":"8",
-        "likes":"2000"
+        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "likes":"2000",
+        "recipes":[
+          {
+            "_id":"2a",
+            "food_name":" Banjari Gosht",
+            "food_img":"https://i.ndtvimg.com/i/2016-03/mutton-curry_625x350_41458549653.jpg",
+            "method":"This gorgeous plate is the reason every Punjabi takes pride in his food. Chunks of chicken marinated overnight in yogurt and a beautiful mix of spices, served with a dollop of melting cream or butter on top.Marinated overnight, the chicken is roasted and cooked in tomato puree, cream, butter and a host of masalas. A perfect dinner party recipe, this North-Indian style chicken recipe is made throughout the country with equal zest and can be served with cooked rice or naan",
+            "Ingredients":"150 gm oil,600 gm mutton- cleaned and cut,200 gm onions,50 gm whole garam masala,80 gm ginger-garlic paste,25 gm red chilli powder,salt to taste,15 gm turmeric,20 gm coriander powder,15 gm coriander seeds- roasted and crushed,150 gm yogurt,6 whole red chillies",
+            "rating":"4.3"
+          },
+          {
+            "_id":"2b",
+            "food_name":" Chicken Stew and Appam",
+            "food_img":"https://i.ndtvimg.com/i/2016-06/stew_625x350_41466057826.jpg",
+            "method":"his stunning dish comes straight from the hidden treasures of God's own country, Kerala. Chicken stew is a popular dish there as a traditional Easter dish and specially among the Christian families for breakfast or brunch. Chunks of chicken bathed in a beautifully spiced and dreamy coconut gravy with soft-centered appams, a southern-style rice pancake",
+            "Ingredients":"1/2 kg chicken,4 tbsp coconut oil,2 onions, finely chopped,1 red chilli, chopped,2 Green chillies,1 tbsp ginger-garlic paste,2 tomatoes, chopped,2 potatoes (diced),Coconut milk- 1st and 2nd extract from 1 coconut,Salt,Pepper,1 Lemon,1 bunch coriander, small",
+            "rating":"4.5"
+          },
+          {
+            "_id":"2c",
+            "food_name":"  Kakori Kebab",
+            "food_img":"https://i.ndtvimg.com/i/2016-03/kakori-kebabs-625_625x350_41459348085.jpg",
+            "method":"A famous Nawabi recipe from Lucknow passed down through generations. It derives its name from the city of Kakori on the outskirts of Lucknow. It is made with the finest meat of the lamb and a few spices. These kebabs are soft and tender, served best with coriander chutney.",
+            "Ingredients":"2 cups mutton/lamb (minced),1 tsp ginger- garlic paste,,2 tsp salt,1/4 tsp black pepper powdered,2 tbsp green coriander chopped,to taste green chillies chopped,2 tbsp raw papaya chopped,4 Cloves,1 Black cardamom seeds,1/8 tsp cinnamon powdered,1 tsp cumin seeds,1 Egg,1 Black mace",
+            "rating":"4.6"
+          }
+        ]
       },
       {
+        "id":"3",
         "name": "Manish Mehrotra",
         "specialty": "Contemporary Indian cuisine",
-        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
-        "years_of_experience":"8",
-        "likes":"2000"
+        "img_url":"https://img.freepik.com/free-photo/portrait-confident-male-chef-kitchen_23-2147863584.jpg?w=360&t=st=1682997274~exp=1682997874~hmac=7c91204af1977342b675ec55024986b6ced795aac8402051441d1b56e963e073",
+        "years_of_experience":"12",
+        "likes":"3000",
+        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "recipes":[
+          {
+            "_id":"3a",
+            "food_name":"  Hyderabadi Biryani",
+            "food_img":"https://i.ndtvimg.com/i/2016-01/biryani_625x350_81452497196.jpg",
+            "method":"It's the perfect choice for foodies who prefer having their rice with spice, interspersed with tender peaces of meat or chicken. Hyderabadi Biryani is a dish from down the south but spread all across the country and even abroad. Cooked in 'dum style', it's layered with fried onions and mint, serve at dinner parties with a cold raita. ",
+            "Ingredients":"1 Kg Meat,1 tbsp Salt,1 tbsp Ginger-garlic paste,1 tbsp Red chilli paste,1 tbsp Green chilli paste (sauteed brown onions to taste),1/2 tbsp Cardamom powder,3-4 Cinnamon sticks,1 tbsp Cumin seeds,4 Cloves,A pinch of Mace,to taste Mint leaves,2 tbsp Lemon juice,250 gms Curd,4 tbsp Clarified butter,750 gms Semi-cooked rice,1 tsp Saffron strand",
+            "rating":"4.5"
+          },
+          {
+            "_id":"3b",
+            "food_name":"Dhokla",
+            "food_img":"https://i.ndtvimg.com/i/2016-03/dhokla_625x350_41457508751.jpg",
+            "method":"A popular Gujarati snack, Dhokla is a steamed cake made from gram flour and channa dal is one of the best things to come out of Gujarat.This dhokla recipe is made with gramflour, however you can also make it from Suji. A besan batter consisting of citric acid, salt and turmeric is mixed with baking powder and steamed to perfection.",
+            "Ingredients":"1 Cup gram flour (besan),1 tbsp citric acid,1 tbsp sugar,to taste salt,A pinch of turmeric,water (to make batter),1 tbsp fruit salt/ baking powder (dissolved in water),For the Tadka:1 tbsp oil,1/2 tbsp mustard seeds,1 dried red chilli,7-8 curry leaves",
+            "rating":"4.2"
+          },
+          {
+            "_id":"3c",
+            "food_name":" Sali Boti",
+            "food_img":"https://i.ndtvimg.com/i/2016-06/chicken_625x350_81465813088.jpg",
+            "method":"This one is a an ideal example of the Parsi's need to mix hot and sweet. Succulent mutton chunks are cooked in tomatoes, onions, jaggery and vinegar. It reeks of bold flavours like turmeric and ginger, and is best served hot with fried potato snacks.",
+            "Ingredients":"4-5 Tbsp of oil,1 bowl of chopped onions,2 Tbsp ginger garlic paste,300 gm of boneless mutton,1 tsp red chilli powder,1/2 tsp of turmeric powder,1 1/2 tsp roasted coriander,1 1/2 cumin powder,1 bowl of chopped tomatoes,1/2 tsp sugar,2 tsp vinegar,1 tsp garam masala,3 tsp chopped coriander,1 bowl of Salli/fine potato shreds,Salt to taste",
+            "rating":"4.5"
+          }
+        ]
+
       },
       {
+        "id":"4",
         "name": "Ranveer Brar",
         "specialty": "Punjabi cuisine",
-        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
-        "years_of_experience":"8",
-        "likes":"2000"
+        "img_url":"https://img.freepik.com/premium-photo/happy-male-chef-dressed-uniform-holding-wooden-spoon_156779-545.jpg?w=900",
+        "years_of_experience":"10",
+        "likes":"1000",
+        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "recipes":[
+          {
+            "_id":"4a",
+            "food_name":"Idli Sambhar",
+            "food_img":"https://i.ndtvimg.com/i/2015-01/idli_625x350_61421915244.jpg",
+            "method":"This glorious steamed rice pancake with innumerable health benefits has made its way through generations. Idlis are about 2-3 inch wide, fluffy and can be relished for breakfast, lunch, snacks or dinner along with some finely ground coconut chutney and a hot steaming bowl of sambhar.Soak the rice and lentil in water separately for 5-6 hours.",
+            "Ingredients":"3 Cups rice - preferably par boiled (sela),1 cup split,husked dhuli urad,2 tsp salt",
+            "rating":"4.3"
+          },
+          {
+            "_id":"4b",
+            "food_name":"Dal Makhani",
+            "food_img":"hhttps://i.ndtvimg.com/i/2017-12/dal-makhani_620x330_71513153561.jpg",
+            "method":"In a heavy based pan, heat butter and oil. Add shahi jeera and kasoori methi. When they begin to splutter, add tomato puree, remaining salt, chilli powder and sugar.Stir-fry over high flame, till the oil separates.",
+            "Ingredients":"2 Cups sabut urad dal,8 cups water,2 tbsp salt,1 tbsp ginger, sliced,2 tbsp butter,1 tbsp oil,2 tsp shahi jeera,1 tsp kasoori meethi",
+            "rating":"4.3"
+          },
+          {
+            "_id":"4c",
+            "food_name":"  Khichdi",
+            "food_img":"https://c.ndtvimg.com/2018-10/iqj1o2qo_khichdi_625x300_01_October_18.jpg",
+            "method":"Pick and wash the rice and the dal, and soak together in water for 1/2 an hour, at least. Drain and keep aside.Heat the ghee in a heavy based saucepan and add the cumin and heeng.When the seeds splutter, add the rice and dal mixture, and saute over high heat, till well mixed and excess water dries up.4.Add the dhania powder and the salt and mix well too. ",
+            "Ingredients":"1 Cup rice,1/2 cup moong dal chilke wali (split green gram),2 tbsp ghee,1 tsp cumin seeds,A pinch of heeng (Asafoetida),1 tbsp dhania powdered,2 tsp salt",
+            "rating":"4.5"
+          }
+        ]
       },
       {
+        "id":"5",
         "name": "Saransh Goila",
         "specialty": "Butter chicken",
-        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
+        "img_url":"https://img.freepik.com/free-photo/happy-young-chef-with-cooking-equipment_329181-685.jpg?w=900&t=st=1682997356~exp=1682997956~hmac=f5458604422175b6932394f71c8d9fccb813182f196470c123879ac345561a08",
         "years_of_experience":"8",
-        "likes":"2000"
+        "likes":"2000",
+        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "recipes":[
+          {
+            "_id":"4a",
+            "food_name":"Idli Sambhar",
+            "food_img":"https://i.ndtvimg.com/i/2015-01/idli_625x350_61421915244.jpg",
+            "method":"This glorious steamed rice pancake with innumerable health benefits has made its way through generations. Idlis are about 2-3 inch wide, fluffy and can be relished for breakfast, lunch, snacks or dinner along with some finely ground coconut chutney and a hot steaming bowl of sambhar.Soak the rice and lentil in water separately for 5-6 hours.",
+            "Ingredients":"3 Cups rice - preferably par boiled (sela),1 cup split,husked dhuli urad,2 tsp salt",
+            "rating":"4.3"
+          },
+          {
+            "_id":"4b",
+            "food_name":"Dal Makhani",
+            "food_img":"hhttps://i.ndtvimg.com/i/2017-12/dal-makhani_620x330_71513153561.jpg",
+            "method":"In a heavy based pan, heat butter and oil. Add shahi jeera and kasoori methi. When they begin to splutter, add tomato puree, remaining salt, chilli powder and sugar.Stir-fry over high flame, till the oil separates.",
+            "Ingredients":"2 Cups sabut urad dal,8 cups water,2 tbsp salt,1 tbsp ginger, sliced,2 tbsp butter,1 tbsp oil,2 tsp shahi jeera,1 tsp kasoori meethi",
+            "rating":"4.3"
+          },
+          {
+            "_id":"4c",
+            "food_name":"  Khichdi",
+            "food_img":"https://c.ndtvimg.com/2018-10/iqj1o2qo_khichdi_625x300_01_October_18.jpg",
+            "method":"Pick and wash the rice and the dal, and soak together in water for 1/2 an hour, at least. Drain and keep aside.Heat the ghee in a heavy based saucepan and add the cumin and heeng.When the seeds splutter, add the rice and dal mixture, and saute over high heat, till well mixed and excess water dries up.4.Add the dhania powder and the salt and mix well too. ",
+            "Ingredients":"1 Cup rice,1/2 cup moong dal chilke wali (split green gram),2 tbsp ghee,1 tsp cumin seeds,A pinch of heeng (Asafoetida),1 tbsp dhania powdered,2 tsp salt",
+            "rating":"4.5"
+          }
+        ]
       },
       {
+        "id":"6",
         "name": "Atul Kochhar",
         "specialty": "Indian-inspired British cuisine",
-        "img-url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
+        "img_url":"https://img.freepik.com/free-psd/smiling-cook-with-roller_1154-530.jpg?w=360&t=st=1682997382~exp=1682997982~hmac=ccea42bcc8d1939ee195f5b141e9a55bf2daea93b9c527a81cfc9d2c6b65fd31",
         "years_of_experience":"8",
-        "likes":"2000"
+        "likes":"2000",
+        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "recipes":[
+          {
+            "_id":"4a",
+            "food_name":"Idli Sambhar",
+            "food_img":"https://i.ndtvimg.com/i/2015-01/idli_625x350_61421915244.jpg",
+            "method":"This glorious steamed rice pancake with innumerable health benefits has made its way through generations. Idlis are about 2-3 inch wide, fluffy and can be relished for breakfast, lunch, snacks or dinner along with some finely ground coconut chutney and a hot steaming bowl of sambhar.Soak the rice and lentil in water separately for 5-6 hours.",
+            "Ingredients":"3 Cups rice - preferably par boiled (sela),1 cup split,husked dhuli urad,2 tsp salt",
+            "rating":"4.3"
+          },
+          {
+            "_id":"4b",
+            "food_name":"Dal Makhani",
+            "food_img":"hhttps://i.ndtvimg.com/i/2017-12/dal-makhani_620x330_71513153561.jpg",
+            "method":"In a heavy based pan, heat butter and oil. Add shahi jeera and kasoori methi. When they begin to splutter, add tomato puree, remaining salt, chilli powder and sugar.Stir-fry over high flame, till the oil separates.",
+            "Ingredients":"2 Cups sabut urad dal,8 cups water,2 tbsp salt,1 tbsp ginger, sliced,2 tbsp butter,1 tbsp oil,2 tsp shahi jeera,1 tsp kasoori meethi",
+            "rating":"4.3"
+          },
+          {
+            "_id":"4c",
+            "food_name":"  Khichdi",
+            "food_img":"https://c.ndtvimg.com/2018-10/iqj1o2qo_khichdi_625x300_01_October_18.jpg",
+            "method":"Pick and wash the rice and the dal, and soak together in water for 1/2 an hour, at least. Drain and keep aside.Heat the ghee in a heavy based saucepan and add the cumin and heeng.When the seeds splutter, add the rice and dal mixture, and saute over high heat, till well mixed and excess water dries up.4.Add the dhania powder and the salt and mix well too. ",
+            "Ingredients":"1 Cup rice,1/2 cup moong dal chilke wali (split green gram),2 tbsp ghee,1 tsp cumin seeds,A pinch of heeng (Asafoetida),1 tbsp dhania powdered,2 tsp salt",
+            "rating":"4.5"
+          }
+        ]
       }
     ]
   

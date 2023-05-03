@@ -2,11 +2,11 @@
       {
         "id":"1",
         "name": "Sanjeev Kapoor",
-        "specialty": "North Indian cuisine",
-        "img_url":"https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1682960860~exp=1682961460~hmac=b54258e31f2a79ba15e3dcb987c6705459c99d0500c78d0901563702884df0d8",
-        "years_of_experience":"8",
-        "likes":"2000",
-        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "number_of_recipe": "3",
+        "img_url":"https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "years_of_experience":"14",
+        "likes":"56k",
+        "bio":"Sanjeev Kapoor is the most famous and commended chef in India. He is also an entrepreneur and a television personality. Sanjeev works for a TV channel named 'FoodFood' after which he became the world's first chef who owns a 24×7 food and lifestyle channel. He also hosted the television show 'Khana Khazana,' which was Asia's longest-running show at the time.The event was broadcast in 120 countries and received over 500 million viewers in 2010. Indian food is his cooking style. Mr. Kapoor was born in Ambala, Haryana, India, on April 10, 1964. He began his career in the hospitality sector in 1984. Alyona Kapoor, his wife, is also a partner in his company, Turmeric Vision Pvt. Ltd. Sanjeev Kapoor joined the Centaur Hotel in Mumbai as the youngest Executive Chef in 1992.",
         "recipes":[
           {
             "_id":"1a",
@@ -37,11 +37,11 @@
       {
         "id":"2",
         "name": "Vikas Khanna",
-        "specialty": "Modern Indian cuisine",
-        "img_url":"https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "years_of_experience":"8",
-        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
-        "likes":"2000",
+        "number_of_recipe": "3",
+        "img_url":"https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?w=740&t=st=1683050060~exp=1683050660~hmac=2469c81d54cc60a56721b818882417b5d6771c6212cc00450e87c99ea9f20518",
+        "years_of_experience":"10",
+        "bio":"Vikas Khanna was born on 14 November 1971 in Amritsar, Punjab, India. He is an Indian chef, restaurateur, cookbook writer, filmmaker, and humanitarian. He judged the Star Plus series MasterChef India series that was telecasted on Star Plus. He got inspiration for cooking from his grandmother. He was only 17 when he opened Lawrence Gardens Banquets to host weddings and functions. Vikas Khanna completed his graduation from Manipal Academy of Higher Education and doctorate from GD Goenka University. In New York, he started his restaurant named Junoon and in 2020, he opened a restaurant Ellora in Dubai.In 2018, Vikas Khanna opened the country's first culinary museum in Manipal. He debuted as a director with the film The Last Color. Indian food is his cooking style. Honors and Awards.In 2012, he won the GQ India Man of the Year Award given by GQ Magazine. In 2012, he got the place on the cover page of Men's Health India Magazine.Khanna was named on People Magazine's list of the Sexiest Man Alive in 2011.",
+        "likes":"37k",
         "recipes":[
           {
             "_id":"2a",
@@ -72,11 +72,11 @@
       {
         "id":"3",
         "name": "Manish Mehrotra",
-        "specialty": "Contemporary Indian cuisine",
-        "img_url":"https://img.freepik.com/free-photo/portrait-confident-male-chef-kitchen_23-2147863584.jpg?w=360&t=st=1682997274~exp=1682997874~hmac=7c91204af1977342b675ec55024986b6ced795aac8402051441d1b56e963e073",
+        "number_of_recipe": "3",
+        "img_url":"https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "years_of_experience":"12",
-        "likes":"3000",
-        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "likes":"30k",
+        "bio":"Manish Mehrotra is a New York-based Indian chef, author, restaurateur, and culinary consultant. He was born on 8 February 1974 in Udupi, Karnataka, India. He completed his education at Welcome group Graduate School of Hotel Administration, Karnataka, and then started his journey from the Culinary Institute of America.",
         "recipes":[
           {
             "_id":"3a",
@@ -108,11 +108,11 @@
       {
         "id":"4",
         "name": "Ranveer Brar",
-        "specialty": "Punjabi cuisine",
+        "number_of_recipe": "3",
         "img_url":"https://img.freepik.com/premium-photo/happy-male-chef-dressed-uniform-holding-wooden-spoon_156779-545.jpg?w=900",
-        "years_of_experience":"10",
-        "likes":"1000",
-        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "years_of_experience":"8",
+        "likes":"40k",
+        "bio":"Ranveer Brar is an Indian chef, TV & digital celebrity, judge, host, author, restaurateur, food film producer, and benefactor. He was born on 8 February 1978 in Lucknow, Uttar Pradesh, India. At present, he is engaged as the senior official food expert at the Novotel Mumbai, Juhu Beach. Other than this, he is also a supervisor at the Dosa Factory and Shalimar in Cambridge. He began his career at the Taj Hotel, Mumbai after completing his education at IHM, Lucknow.Mr. Brar started his TV career with Breakfast Xpress. He has appeared in various shows as a judge or host such as Zee Khana Khazana, Zoom's Thank Got Its Friday, Masterchef India, Raja Rasoi Aur Andaaz Anokha, Rasoi ki Jung Mummiyon ke Sung, Health Bhi Taste Bhi, and others. In 2016, Ranveer Brar launched his first book titled 'Come Into My Kitchen' an autobiography. Other than this, in 2019, he launched his mobile app also.",
         "recipes":[
           {
             "_id":"4a",
@@ -143,11 +143,11 @@
       {
         "id":"5",
         "name": "Saransh Goila",
-        "specialty": "Butter chicken",
-        "img_url":"https://img.freepik.com/free-photo/happy-young-chef-with-cooking-equipment_329181-685.jpg?w=900&t=st=1682997356~exp=1682997956~hmac=f5458604422175b6932394f71c8d9fccb813182f196470c123879ac345561a08",
-        "years_of_experience":"8",
-        "likes":"2000",
-        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "number_of_recipe": "3",
+        "img_url":"https://images.unsplash.com/photo-1613251806367-5e597bb5c631?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjI1fHxjaGVmfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "years_of_experience":"12",
+        "likes":"28k",
+        "bio":"Saransh Goila is an Indian chef and restaurateur. He was born on 17 February 1987 in Delhi, India. He completed his education at the Institute of Hotel Management, Aurangabad. His cooking style is Indian cuisine. Mr. Saransh is the owner of 'Goila Butter Chicken' located in Mumbai and also the author of the acclaimed travelogue India on my Platter.e is the host of TV shows Roti Rasta aur India and Healthy Fridge. In 2013, he became a participant in the show Sanjeev Kapoor ke Kitchen Khiladi also. In 2018, he was the host of the web series 'Run to Eat'.n 2018, he appeared as a guest judge on Masterchef Australia represented India. In 2014, he became part of Limca Book of World Records for the Longest Road journey by a chef. He also won the cooking show, Food Food Maha Challenge.",
         "recipes":[
           {
             "_id":"5a",
@@ -177,16 +177,16 @@
       },
       {
         "id":"6",
-        "name": "Atul Kochhar",
-        "specialty": "Indian-inspired British cuisine",
-        "img_url":"https://img.freepik.com/free-psd/smiling-cook-with-roller_1154-530.jpg?w=360&t=st=1682997382~exp=1682997982~hmac=ccea42bcc8d1939ee195f5b141e9a55bf2daea93b9c527a81cfc9d2c6b65fd31",
+        "name": "Nita Mehta",
+        "number_of_recipe": "3",
+        "img_url":"https://img.freepik.com/premium-photo/young-chef-girl-front-pose-with-ok-sign-white-outfit-indian-pakistani-model_561639-4407.jpg?size=626&ext=jpg",
         "years_of_experience":"8",
-        "likes":"2000",
-        "bio":"Chef name) is the executive chef of (Restaurant name), a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
+        "likes":"30k",
+        "bio":"Nita Mehta is an Indian chef, author, restaurateur, and media personality. She is highly popular for her cookbooks, cooking classes, and celebrity judge on various cooking shows. Her cooking style is Indian.In 2001, she started her culinary academy named 'Nita Mehta Culinary Academy' in New Delhi. In 2012, she started her restaurant Kelong at Sarabha Nagar, Ludhiana, Punjab. She is the author of about 400 cookbooks whose more than 6 million copies have been sold. She appeared on the MasterChef India as a judge in 2011.In 1999, she won the Best Asian Cookbook Award for her book Flavors of Indian Cooking at the World Cookbook Fair in Paris.She is honored with the title Cooking Expert and Nutrition Expert by the media.",
         "recipes":[
           {
             "_id":"6a",
-            "food_name":"Aloo Kulcha",
+            "food_name":"Nandini Malotra",
             "food_img":"https://c.ndtvimg.com/2019-05/oa0esrdg_chana-kulcha_625x300_31_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
             "method":"The kulcha is stuffed with a spicy aloo masala, making it taste just delicious! If you are familiar with making parathas at home, then preparing this all kulcha shall be super easy for you.Add the chopped green chillies, red chilli powder, dried mango powder, garam masala powder and coriander leaves to boiled potatoes.",
             "Ingredients":"120 Gram Atta,125 gram Maida,1/4 tsp Baking Soda,3 tsp Ghee,2 tbsp Yoghurt,1 tsp Sugar,1 tsp Salt,1/2 cup Water (for kneading the dough),1-2 tsp Sesame Seeds,For Kulcha Stuffing,3 Boiled potatoes",

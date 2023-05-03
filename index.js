@@ -16,7 +16,6 @@ app.get('/data',(req,res)=>{
 // particular data
 app.get('/data/:id',(req,res)=>{
     const id=req.params.id;
-    // console.log(id);
     const selectedData=chefData.find(pd=>pd.id===id);
     res.send(selectedData)
 })
